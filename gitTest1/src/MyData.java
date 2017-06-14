@@ -5,7 +5,7 @@ public class MyData {
 	
 	public void display() {
 		for (int d : data) {
-			System.out.println("Data is: " + d);
+			System.out.println("Data: " + d);
 		}
 		
 	}
